@@ -1,0 +1,5 @@
+tk
+pyinstaller
+tkinterdnd2
+docx2pdf
+pptxtopdf
